@@ -462,7 +462,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "voxel-engine"
+name = "voxix-rs"
 version = "0.1.0"
 dependencies = [
  "vulkano",
